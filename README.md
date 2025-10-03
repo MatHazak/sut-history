@@ -15,7 +15,8 @@ Analysis of historical course data from Sharif University of Technology (SUT), i
 
 ## Example Figure
 
-![Enrollment by Department](figures/enrollment_by_dept.png)
+![Number of Courses per Departments over Time](docs/number_of_courses_per_department_per_time.png)
+**Figure:** Number of courses offered per department, displayed as a heatmap over the years.
 
 
 ## Work in Progress
