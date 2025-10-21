@@ -4,7 +4,7 @@ def load_processed():
     from pathlib import Path
     notebook_dir = Path.cwd()
     data_path = notebook_dir.parent / "data" / "processed" / "courses_clean.csv"
-    return pd.read_csv(path, dtype={"capacity": "Int32", "enrolled": "Int32"})
+    return pd.read_csv(data_path, dtype={"capacity": "Int32", "enrolled": "Int32"})
 	
 def normalize_persian_text(text: str) -> str:
     import re
