@@ -18,6 +18,9 @@ Analysis of historical course data from Sharif University of Technology (SUT), i
 ![Number of Courses per Departments over Time](docs/number_of_courses_per_department_per_time.png)
 **Figure:** Number of courses offered per department, displayed as a heatmap over the years.
 
+## Related Project
+
+A companion Telegram bot — [SUT Course Chronicle Bot](https://github.com/MatHazak/sut-course-chronicle-bot) — provides an interactive way to query historical course and professor data directly from Telegram.
 
 ## Work in Progress
 
